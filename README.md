@@ -1,9 +1,8 @@
-# wetube_flutter
 
 <p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast"><img src="assets/images/logo.png" width="150"></a></p> 
 <h1 align="center"><b>WeTube: Video, Music & Podcast</b></h1>
 <h4 align="center">A lightweight streaming front-end for Android.</h4>
-<p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast,drama"><img src="https://getsby.com/wp-content/uploads/2023/06/google-play-badge.png" alt="Get it on Play store" height=80/></a></p>
+<p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast,drama"><img src="https://getsby.com/wp-content/uploads/2023/06/google-play-badge.png" alt="Get it on Play store" height=80/></a><a href="https://github.com/Purehi/wetube_flutter/releases/download/1.0.0/2025012201.apk"><img src="https://user-images.githubusercontent.com/114044633/223920025-83687de0-e463-4c5d-8122-e06e4bb7d40c.png" alt="Get it on Play store" height=80/></a></p>
 
 ## Screenshots
 
