@@ -23,7 +23,7 @@
 
 ## Description
 
-WeTube works by fetching the required data from the official API (e.g. PeerTube) of the service you're using and parses the website or uses an internal API. This means that you don't need an account on any service to use WeTube.
+WeTube works by fetching the required data from the official API of the service you're using and parses the website or uses an internal API. This means that you don't need an account on any service to use WeTube.
 
 Also, since they are free and open source software, you can get WeTube on Google play store.
 
