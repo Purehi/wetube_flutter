@@ -4,6 +4,12 @@
 <h4 align="center">A lightweight streaming front-end for Android.</h4>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast,drama"><img src="https://getsby.com/wp-content/uploads/2023/06/google-play-badge.png" alt="Get it on Play store" height=80/></a><a href="https://github.com/Purehi/wetube_flutter/releases/download/1.0.0/2025012201.apk"><img src="https://user-images.githubusercontent.com/114044633/223920025-83687de0-e463-4c5d-8122-e06e4bb7d40c.png" alt="Get it on Play store" height=80/></a></p>
 
+> [!warning]
+> <b>The store version contains ads but no ads interrupt the video; the open source version has no ads but cannot use Google related services. Please choose the appropriate version to install, we will find a solution later and gradually add functions and features.</b>
+> 
+> <b>THIS APP IS IN BETA, SO YOU MAY ENCOUNTER BUGS. IF YOU DO, OPEN AN ISSUE IN OUR GITHUB REPOSITORY BY FILLING OUT THE ISSUE TEMPLATE.</b>
+
+
 ## Screenshots
 
 <img src="https://github.com/user-attachments/assets/58945130-8463-4284-b967-66cf63fcf2ea" width=160>
