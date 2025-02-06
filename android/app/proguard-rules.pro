@@ -6,13 +6,9 @@
 -keep class io.flutter.view.**  { *; }
 -keep class io.flutter.**  { *; }
 -keep class io.flutter.plugins.**  { *; }
--keep class com.google.firebase.** { *; }
--keep class com.google.android.gms.** { *; }
--keep class com.google.android.play.** { *; }
--keep public class com.google.android.gms.** { public protected *; }
 -keep class org.videolan.libvlc.** { *; }
 -keepattributes *Annotation*
--dontwarn com.google.android.gms.common.annotation.NoNullnessRewrite
+-dontwarn com.google.android.play.core.splitcompat.SplitCompatApplication
 -dontwarn com.google.android.play.core.splitinstall.SplitInstallException
 -dontwarn com.google.android.play.core.splitinstall.SplitInstallManager
 -dontwarn com.google.android.play.core.splitinstall.SplitInstallManagerFactory
@@ -23,4 +19,9 @@
 -dontwarn com.google.android.play.core.tasks.OnFailureListener
 -dontwarn com.google.android.play.core.tasks.OnSuccessListener
 -dontwarn com.google.android.play.core.tasks.Task
--dontwarn com.google.android.play.core.splitcompat.SplitCompatApplication
+-dontwarn java.beans.BeanDescriptor
+-dontwarn java.beans.BeanInfo
+-dontwarn java.beans.IntrospectionException
+-dontwarn java.beans.Introspector
+-dontwarn java.beans.PropertyDescriptor
+-dontwarn org.mozilla.javascript.ObjToIntMap
