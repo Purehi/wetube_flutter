@@ -1,4 +1,4 @@
-
+<h3 align="center">Flutter currently cannot achieve free resolution switching. If you have a solution, you can submit a PR. As far as I know, Android native exoplayer can achieve free resolution switching.</h3>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast"><img src="assets/images/logo.png" width="150"></a></p> 
 <h1 align="center"><b>WeTube: Video, Music & Podcast</b></h1>
 <h4 align="center">A lightweight streaming front-end for Android.</h4>
