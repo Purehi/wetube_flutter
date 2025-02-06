@@ -1,3 +1,4 @@
+
 pluginManagement {
     def flutterSdkPath = {
         def properties = new Properties()
@@ -5,9 +6,10 @@ pluginManagement {
         def flutterSdkPath = properties.getProperty("flutter.sdk")
         assert flutterSdkPath != null, "flutter.sdk not set in local.properties"
         return flutterSdkPath
-    }()
+    }
+    settings.ext.flutterSdkPath = flutterSdkPath()
 
-    includeBuild("$flutterSdkPath/packages/flutter_tools/gradle")
+    includeBuild("${settings.ext.flutterSdkPath}/packages/flutter_tools/gradle")
 
     repositories {
         google()
@@ -18,8 +20,12 @@ pluginManagement {
 
 plugins {
     id "dev.flutter.flutter-plugin-loader" version "1.0.0"
-    id "com.android.application" version "8.7.2" apply false
+    id "com.android.application" version '8.8.0' apply false
+    // END: FlutterFire Configuration
     id "org.jetbrains.kotlin.android" version "2.0.20" apply false
+    // END: FlutterFire Configuration
 }
 
 include ":app"
+
+

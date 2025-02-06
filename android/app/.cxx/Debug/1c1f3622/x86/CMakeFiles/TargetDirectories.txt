@@ -1,0 +1,2 @@
+/Users/purehi/Desktop/wetuber/android/app/.cxx/Debug/1c1f3622/x86/CMakeFiles/edit_cache.dir
+/Users/purehi/Desktop/wetuber/android/app/.cxx/Debug/1c1f3622/x86/CMakeFiles/rebuild_cache.dir
