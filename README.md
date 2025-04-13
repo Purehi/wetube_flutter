@@ -1,5 +1,5 @@
 <h3 align="center">Now, WeTube 3.0.0 Supports free switching of video resolution and background playback. You can download it from the Google Play Store.</h3>
-<p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&q=youtube,video,music,podcast"><img src="https://github.com/user-attachments/assets/beaf643e-feb1-4736-9420-14f216d4cde7" width="150"></a></p> 
+<p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&gl=in&hl=en_IN&q=youtube,video,music,podcast"><img src="https://github.com/user-attachments/assets/beaf643e-feb1-4736-9420-14f216d4cde7" width="150"></a></p> 
 <h1 align="center"><b>WeTube: Video, Music & Podcast</b></h1>
 <h4 align="center">A lightweight streaming front-end for Android.</h4>
 <p align="center"><a href="https://play.google.com/store/apps/details?id=free.mor.mordo.do&gl=in&hl=en_IN&q=youtube,video,music,podcast,drama"><img src="https://github.com/user-attachments/assets/5426bc5c-1171-4ce7-85b4-504b09e56c38" alt="Get it on Play store" height=80/></a><a href="https://github.com/Purehi/wetube_flutter/releases/download/1.0.0/2025012201.apk"><img src="https://user-images.githubusercontent.com/114044633/223920025-83687de0-e463-4c5d-8122-e06e4bb7d40c.png" alt="Get it on Play store" height=80/></a></p>
